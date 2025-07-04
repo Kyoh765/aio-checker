@@ -1,5 +1,8 @@
 # aio-checker
-All in One Checker AWS | Mailgun | Brevo | Redirection generator |  Mailling tool 
+
+![py_ah49Mx9K0F](https://github.com/user-attachments/assets/3ba78cfe-ebd1-404b-afda-7ac464793c66)
+
+All in One Checker Script
 
 1. AWS SES Key Checker
 2. Brevo API Key Checker
@@ -11,4 +14,10 @@ All in One Checker AWS | Mailgun | Brevo | Redirection generator |  Mailling too
 8. AWS S3 Bucket Viewer
 9. AWS S3 Redirect Generator
 
-   ![py_ah49Mx9K0F](https://github.com/user-attachments/assets/3ba78cfe-ebd1-404b-afda-7ac464793c66)
+How to use :
+
+pip install -r requirements.txt
+py AIO-Checker.py
+make your choice
+drag and drop or write your file (ex: hit.txt )
+running starting !
