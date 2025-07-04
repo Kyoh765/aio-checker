@@ -24,4 +24,4 @@ running starting !
 
 Need a script ? 
 
-@Kyo_exe to order
+@Kyo_exe for code / dev services
